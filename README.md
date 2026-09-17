@@ -19,7 +19,7 @@ Free Cloud account имеет ограничения:
 
 В качестве решения задания пришлите скриншот меню Projects.
 
-![Ссылка 1](https://github.com/Firewal7/devops-netology/blob/main/image/12-kuber-homeworks-1.1.jpg)
+<img width="1427" height="655" alt="1" src="https://github.com/user-attachments/assets/fd642f30-a402-42be-a03c-6e1451e53cf3" />
 
 ### Задание 2
 
@@ -28,9 +28,9 @@ Free Cloud account имеет ограничения:
 3. Перейдите в список событий проекта, выберите созданное вами и нажмите Resolved.
 4. В качестве решения задание предоставьте скриншот Stack trace из этого события и список событий проекта после нажатия Resolved.
 
-![Ссылка 2](https://github.com/Firewal7/devops-netology/blob/main/image/10-monitoring-05-sentry-2.jpg)
+<img width="1283" height="623" alt="2" src="https://github.com/user-attachments/assets/3d1563ac-163f-4cb5-8b1b-4198d77d5901" />
 
-![Ссылка 3](https://github.com/Firewal7/devops-netology/blob/main/image/10-monitoring-05-sentry-3.jpg)
+<img width="1419" height="698" alt="3" src="https://github.com/user-attachments/assets/000d2709-7327-4862-b5db-4a88ff2068d2" />
 
 ### Задание 3
 
@@ -41,4 +41,4 @@ Free Cloud account имеет ограничения:
 5. В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events.
 
-![Ссылка 4](https://github.com/Firewal7/devops-netology/blob/main/image/10-monitoring-05-sentry-4.jpg)
+<img width="632" height="475" alt="4" src="https://github.com/user-attachments/assets/801d6c60-9341-4d91-9605-8b1d5d0f7daf" />
